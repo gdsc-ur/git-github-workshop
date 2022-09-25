@@ -1,1 +1,1 @@
-Make a new file titled your github usernme here.
+Make a new file named your GitHub username here.
